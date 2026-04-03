@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 some random content
+=======
+arn:aws:kms:us-east-1:111122223333:key/00000000-1111-2222-aaaa-ffffffffffff
+>>>>>>> test-PKG-amd64-79162c74-5085-4659-9734-09f3b4745d71-sens-arn
